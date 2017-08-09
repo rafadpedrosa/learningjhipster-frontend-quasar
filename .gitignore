@@ -2,6 +2,7 @@
 node_modules/
 dist/
 npm-debug.log
+.idea/
 npm-debug.log.*
 selenium-debug.log
 test/unit/coverage
@@ -10,3 +11,4 @@ cordova/platforms
 cordova/plugins
 thumbs.db
 !.gitkeep
+package-lock.json
